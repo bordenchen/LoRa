@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\bin\Debug\LoR field app.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\bin\Debug\LoR field app.exe
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\bin\Debug\LoR field app.pdb
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\bin\Debug\SintegrationLib.dll
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\bin\Debug\Renci.SshNet.dll
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\obj\Debug\LoR field app.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\obj\Debug\LoR field app.exe
+c:\users\user\documents\visual studio 2015\Projects\LoR field app\LoR field app\obj\Debug\LoR field app.pdb
